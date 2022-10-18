@@ -1,0 +1,37 @@
+@charset 'UTF-8';
+/*
+Theme Name: супер шрек и его друзья бравлстарсики 
+Theme URI: http://wordpress/wp-admin/themes.php?theme=tipotema 
+Author: замороженная лампа богов
+Author URI: http://wordpress/wp-admin/profile.php 
+Description: этот супер пупер шаблон мышка был создан для величайших программистов которые гении и вообще молодцы
+Version: 1.0
+*/
+
+* {
+
+}
+
+.left , .content , .right {
+	
+
+ }
+ .left , .content {
+ }
+ .left{
+    background-color:#FF4500;
+    
+ }
+ .right {
+ }
+ .content{
+    color: #66CDAA;
+ }
+ main {
+   display: flex;
+   justify-content: space-between;
+   background-color: #666;
+   height: 100vh;
+   align-items: center;
+ }
+@charset 'utf-8'
