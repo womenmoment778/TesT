@@ -1,2 +1,2 @@
 
-<div class="left">Левая боковая панель</div>
+<div class="left">Левая боковая панеЛЬ</div>
