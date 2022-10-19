@@ -1,9 +1,10 @@
 <?php
  head(); 
  body_start();
-echo "<header>" ; header_user(); echo "</header>";
+get_header();
+get_sidebar('left');
 echo "<main>"; main_user(); echo"</main>";
-echo "<footer>"; footer(); echo"</footer>" ;
+get_footer();
       body_end();
       html_end();  
     $name_tag= "SDGTHFJGHKHJU";
