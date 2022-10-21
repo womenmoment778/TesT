@@ -1,5 +1,4 @@
-
-<?php get_sidebar('left');?>
+<!-- <?php get_sidebar('left');?>  -->
 	<div class="container">
   <div class="row">
 <div class="col-3">
@@ -23,4 +22,4 @@
 	<div><a href="/">Читать далее...</a></div>
 </div> 
 <?php $i++; }?> -->
-<?php get_sidebar('right');?>
+<!-- <?php get_sidebar('right');?> -->
