@@ -2,7 +2,6 @@
  head(); 
  body_start();
 get_header();
-get_sidebar('left');
 echo "<main>"; main_user(); echo"</main>";
 get_footer();
       body_end();
