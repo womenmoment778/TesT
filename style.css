@@ -7,23 +7,13 @@ Author URI: http://wordpress/wp-admin/profile.php
 Description: этот супер пупер шаблон мышка был создан для величайших программистов которые гении и вообще молодцы
 Version: 1.0
 */
-
-* {
-
-}
-
 .left , .content , .right {
-	
-
  }
- .left , .content {
- }
+ 
  .left{
     background-color:#FF4500;
-    
  }
- .right {
- }
+ 
  .content{
     color: #66CDAA;
  }
@@ -31,7 +21,25 @@ Version: 1.0
    display: flex;
    justify-content: space-between;
    background-color: #666;
-   height: 100vh;
+   /*height: 100vh;*/
    align-items: center;
  }
-@charset 'utf-8'
+.conteiner{
+	width: 100%;
+}
+/*стили юли*/
+.UL{
+
+}
+/*стили 1 сергея*/
+.SS1{
+
+}
+/*стили александра*/
+.tmk{
+
+}
+/*стили 2 сергея*/
+.SS2{
+
+}
