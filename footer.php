@@ -12,7 +12,7 @@
  <div style="float: left; width: 15% " >
 
 Сергей Аверин - nosoksydby03@gmail.com <br>
-    <a href=" " target="_blank">Ссылка на Vk</a><br>
+    <a href="https://vk.com/gggg34572" target="_blank">Ссылка на Vk</a><br>
 
  </div>
   <div style="float: left; width: 15% " >
