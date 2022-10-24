@@ -7,6 +7,14 @@ Author URI: http://wordpress/wp-admin/profile.php
 Description: этот супер пупер шаблон мышка был создан для величайших программистов которые гении и вообще молодцы
 Version: 1.0
 */
+.avatar1 ,.avatar2 , .avatar3 , .avatar4{
+   border-radius: 100%;
+   height: 30px;
+
+}
+.header{
+
+}
 .left , .content , .right {
  }
  
