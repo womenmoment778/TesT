@@ -66,7 +66,7 @@
     </div>
     <div class="SS2" style="float: right; width: 49%;">
       <table border="double">
-        <H2>Сергей Панфилов</H2>
+                                                                                                <H2>Сергей Панфилов</H2>
         <tr>
           <td>
                                                       
